@@ -18,7 +18,7 @@ This repository contains a Google Colab notebook focused on Generative Adversari
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/2manoj1/g-colab.git
+   git clone https://github.com/bonly/AI.git
    ```
 
 2. Open the notebook in Google Colab or your preferred environment.
