@@ -39,3 +39,4 @@ Happy learning and coding!
   
 # AI
 https://gist.github.com/yhilpisch/5dfcfbf3ba53e1d8dec8bf8fae4a9404
+https://github.com/yhilpisch/tpqoa
